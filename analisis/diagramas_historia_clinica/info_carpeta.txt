@@ -1,0 +1,2 @@
+esta carpeta contiene el caso de uso y flujo de usuario de historia clinica
+los archivos se abren en argouml
