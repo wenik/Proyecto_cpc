@@ -1,0 +1,15 @@
+****************************************************************************************
+{nomenclatura=
+	DA=diagrama_actividad
+	DC=ciagrama_colaboracion
+	DCU=diagrama_caso_de_uso
+	DS=diagrama de seucencia}
+[cada imagen jpg contiene iniciales para identificar cada diagrama y 
+facilita el uso de no abrir]
+{ES RECOMENDABLE QUE SE HAGA ESTO PARA TENER MEJOR ORDEN }
+****************************************************************************************
+EL PROGRAMA PARA ABRIR LOS DOCUMENTOS DE {LA CARPETA='archivos_de_diagrama/Diagramas.vpp'} SE UTILIZA 
+****************************************************************************************
+	*******************DESCARGAR VERSION 12.2**************************
+{VISUAL PARADIGM  PAGINA PARA DESCARGAR========http://www.visual-paradigm.com/download/}
+****************************************************************************************

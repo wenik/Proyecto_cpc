@@ -2,4 +2,4 @@
 {la carpeta analisis tendra los siguientes archivos}
 ****************************************************
 {diagramas y requerimientos}
-{srs-c}
+{documentos de toma de requerimientos}
