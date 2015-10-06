@@ -1,0 +1,2 @@
+[contiene un word]
+este word es una especificacion del caso de uso por cada caso de uso que tenemos
