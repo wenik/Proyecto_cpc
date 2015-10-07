@@ -1,2 +1,4 @@
 [contiene un word]
 este word es una especificacion del caso de uso por cada caso de uso que tenemos
+este documento se conoce como
+{ESPECIFICACION DE CASO DE USO-----NOMBRE DE CASO DE USO}
