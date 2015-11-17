@@ -1,3 +1,0 @@
-{documentacion carpeta..}
-esta carpeta contiene un winrar en donde al descargar o al  desempaquetar encontraremos ejemplos
-de como realiza un mejor analisis.
